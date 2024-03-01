@@ -1,6 +1,7 @@
-## Temperature Covertor
+# Temperature Covertor
 
-The website utilizes HTML, CSS, and JavaScript to convert Celsius temperature measurements into either Fahrenheit or Kelvin scales.
+#### Description: The website convert's Celsius temperature measurements into either Fahrenheit or Kelvin scales.
+#### Technologies Used: HTML, CSS, and JavaScript to 
 
 #### Visit-Wesite: [Temperature Convertor](https://k-pragna.github.io/Temperature-Convertor/Temperature%20Convertor/index.html)
 
